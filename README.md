@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next JS, Spring Boot**
 
-- 👯 I’m looking to collaborate on [https://dynamic.psa-khmer.world/](https://https://dynamic.psa-khmer.world/.istad.co)
+- 👯 I’m looking to collaborate on [https://dynamic.psa-khmer.world/](https://dynamic.psa-khmer.world/)
 
 - 💬 Ask me about **React JS, Next JS, Spring Boot**
 
