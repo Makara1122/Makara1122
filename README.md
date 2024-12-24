@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sokny2023&label=Profile%20views&color=0e75b6&style=flat" alt="sokny2023" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sokny2023" alt="sokny2023" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sokny" target="blank"><img src="https://img.shields.io/twitter/follow/sokny?logo=twitter&style=for-the-badge" alt="sokny" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Next JS, Spring Boot**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React JS, Next JS, Spring Boot**
 
-- 📫 How to reach me **povsokny2023@gmail.com**
+- 📫 How to reach me **lajr182@gmail.com**
 
 - ⚡️ Fun fact **I love Coding, but I need my crush**
 
